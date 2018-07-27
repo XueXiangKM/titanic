@@ -1,5 +1,5 @@
 # titanic
-对泰坦尼克号上 2224 名乘客和船员中 891 名的人口学数据和乘客基本信息进行分析
+对泰坦尼克号上 2224 名乘客和船员中 891 名的人口学数据和乘客基本信息进行分析。该数据集可以通过https://raw.githubusercontent.com/ShiChJ/DAND-Basic-Materials/master/P2/Project_Files/titanic-data.csv 获取
 
 ## 对该数据集的思考
 
